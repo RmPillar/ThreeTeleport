@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mech Spider
+* source:	https://sketchfab.com/3d-models/mech-spider-bfcb7d5325104a2681d6eed0e93d554d
+* author:	kirirato (https://sketchfab.com/kirirato)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mech Spider" (https://sketchfab.com/3d-models/mech-spider-bfcb7d5325104a2681d6eed0e93d554d) by kirirato (https://sketchfab.com/kirirato) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
